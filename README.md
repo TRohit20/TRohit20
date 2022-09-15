@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
-<img align="center" alt="Profile Picture" width="400" src="Rohit T.png" >
+<img align="center" alt="Profile Picture" width="800" src="Rohit T.png" >
 <h3 align="center">|| A passionate Software Development Engineer || Learner and Explorer || Aspirant to build Sustainable solutions impacting communities and lives || Open to opportunities and helping communities ||</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trohit20&label=Profile%20views&color=0e75b6&style=flat" alt="trohit20" /> </p>

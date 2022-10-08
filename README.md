@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Building a Full-fledged website for charity**
 
-- 🌱 I’m currently learning **Web development- Backend(Node.Js,Express,MongoDB) and Swift**
+- 🌱 I’m currently learning and exploring **Backend Web-Development and DevOps **
 
 - 💬 Ask me about **Java, Computer Networking and Managing communities**
 

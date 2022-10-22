@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <img align="center" alt="Profile Picture" width="800" src="Rohit T.png" >
-<h3 align="center">|| SDE, DevOps || I don't give people fish, Insteadm I teach them how to fish || Building sustainable solutions impacting communities and lives ||</h3>
+<h3 align="center">|| SDE, DevOps || I don't give people fish, Instead, I teach them how to fish || Building sustainable solutions impacting communities and lives ||</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trohit20&label=Profile%20views&color=0e75b6&style=flat" alt="trohit20" /> </p>
 

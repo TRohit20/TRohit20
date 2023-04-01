@@ -21,7 +21,11 @@
 
 - Talk: [Peer Mentorship: The Key to a Vibrant and Inclusive Open Source Community](https://sched.co/1K5HG), Open Source Summit North America, Vancouver, Canada, 2023
 <!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+ - 💫 [Teaching you all about APIs in 12 mins](https://rohitlogs.com/apis-development-series-part-one)
+ - 🚀 [Beyond Code: How Anyone Can Contribute to Open-Source Projects](https://rohitlogs.com/beyond-code-how-anyone-can-contribute-to-open-source-projects)
+ - 💯 [From Zero to Flutter: Setting up Your Development Environment and First App](https://rohitlogs.com/from-zero-to-flutter-setting-up-your-development-environment-and-first-app)
+ - 💯 [Diving into Dart: The foundation of Flutter](https://rohitlogs.com/diving-into-dart-the-foundation-of-flutter-1)
+ - 🔥 [Discover the Magic of Object-Oriented Programming: A Beginner&#39;s Guide to OOP Mastery](https://rohitlogs.com/discover-the-magic-of-object-oriented-programming-a-beginners-guide-to-oop-mastery)<!-- BLOGPOSTS:END -->
 
 ---
 

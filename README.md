@@ -37,7 +37,7 @@
 ## 👫 Community:
 - Technical and Strategy Head START Club: Built an 500+ strong diverse and inclusive student community from the ground up.
 - Previosuly, Advisory Board Member: Technvision Club and ISF IETE, SNIST - Organized several hackathons, webinars, events and mentored many students on a 1:1 basis.
-- Actively involved in Global tech communities such as [EddieHub[(https://github.com/EddieHubCommunity), [MLH](https://mlh.io/), [Kubesimplify](https://github.com/kubesimplify) and more.
+- Actively involved in Global tech communities such as [EddieHub](https://github.com/EddieHubCommunity), [MLH](https://mlh.io/), [Kubesimplify](https://github.com/kubesimplify) and more.
 - Apart from tech, also been the president of Sports Club, SNIST: Organised the biggest in-person sports Fest in Telangana with over 2000+ attendees
 
 ---

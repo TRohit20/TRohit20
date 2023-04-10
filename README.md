@@ -21,11 +21,11 @@
 
 - Talk: [Peer Mentorship: The Key to a Vibrant and Inclusive Open Source Community](https://sched.co/1K5HG), Open Source Summit North America, Vancouver, Canada, 2023
 <!-- BLOGPOSTS:START -->
- - 💫 [Flutter- How you can learn the entire widget catalog!](https://rohitlogs.com/flutter-how-you-can-learn-the-entire-widget-catalog)
- - 🚀 [Here&#39;s how you can dynamically keep your GitHub profile updated!](https://rohitlogs.com/heres-how-you-can-dynamically-keep-your-github-profile-updated)
+ - 💫 [The ultimate Showdown: Flutter VS React-Native](https://rohitlogs.com/flutter-vs-react-native)
+ - 🚀 [Flutter- How you can learn the entire widget catalog!](https://rohitlogs.com/flutter-how-you-can-learn-the-entire-widget-catalog)
+ - 💯 [Here&#39;s how you can dynamically keep your GitHub profile updated!](https://rohitlogs.com/heres-how-you-can-dynamically-keep-your-github-profile-updated)
  - 💯 [Teaching you all about APIs in 12 mins](https://rohitlogs.com/apis-development-series-part-one)
- - 💯 [Beyond Code: How Anyone Can Contribute to Open-Source Projects](https://rohitlogs.com/beyond-code-how-anyone-can-contribute-to-open-source-projects)
- - 🔥 [From Zero to Flutter: Setting up Your Development Environment and First App](https://rohitlogs.com/from-zero-to-flutter-setting-up-your-development-environment-and-first-app)<!-- BLOGPOSTS:END -->
+ - 🔥 [Beyond Code: How Anyone Can Contribute to Open-Source Projects](https://rohitlogs.com/beyond-code-how-anyone-can-contribute-to-open-source-projects)<!-- BLOGPOSTS:END -->
 
 ---
 

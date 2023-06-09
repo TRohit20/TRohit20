@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Tech, Writing, Finance and communities**
 
-- 🌱 Currently exploring **Flutter and IOS Development**
+- 🌱 Currently exploring **Spatial Computing AR/VR for VisionOS and IOS Development**
 
 - 📝 I regularly write technical blogs on [rohit.log()](rohitlogs.com)
 

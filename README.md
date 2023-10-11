@@ -1,11 +1,11 @@
 <h1 align="center">Hello there, I am Rohit <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="90"></h1>
 
-<h3 align="center">| Software Engineer, Technical Writer | Building my way to become the top 0.01% |</h3>
+<h3 align="center">| Software Engineer, Technical Writer | Learning, Building and Making impact one step at a time |</h3>
 
 
 - 💬 Ask me about **Tech, Writing, Finance and communities**
 
-- 🌱 Currently exploring **Spatial Computing AR/VR for VisionOS and IOS Development**
+- 🌱 Currently exploring **Spatial Computing, AR/VR for VisionOS, IOS and everything apple products**
 
 - 📝 I regularly write technical blogs on [rohit.log()](rohitlogs.com)
 
@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/rohit-t-0124a4242/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:vadlamudi.rohit5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-- ⚡ Fun fact **Not just a geek, also proficient in business aspects**
+- ⚡ Fun fact **Not just a geek, also proficient in business aspects, making jokes and sports**
 --- 
 
 ## 🎤 Blogs and Talks:
@@ -35,13 +35,13 @@
 --- 
 
 ## 👫 Community:
-- Technical and Strategy Head START Club: Built an 500+ strong diverse and inclusive student community from the ground up.
+- Prev - Technical and Strategy Head START Club: Built an 500+ strong diverse and inclusive student community from the ground up.
 - Previosuly, Advisory Board Member: Technvision Club and ISF IETE, SNIST - Organized several hackathons, webinars, events and mentored many students on a 1:1 basis.
 - Actively involved in Global tech communities such as [EddieHub](https://github.com/EddieHubCommunity), [MLH](https://mlh.io/), [Kubesimplify](https://github.com/kubesimplify) and more.
 - Apart from tech, also been the president of Sports Club, SNIST: Organised the biggest in-person sports Fest in Telangana with over 2000+ attendees
 
 ---
 
-#### ⚡ When I don't code : **Gym, Games, Sports, Phothography and Hanging out**
+#### ⚡ When I don't code : **Gym, Video Games, Sports, Phothography, Guitar, Standup and entertainment**
 
 ---

@@ -21,11 +21,11 @@
 
 - Talk: [Peer Mentorship: The Key to a Vibrant and Inclusive Open Source Community](https://sched.co/1K5HG), Open Source Summit North America, Vancouver, Canada, 2023
 <!-- BLOGPOSTS:START -->
+ - 🚀 [&quot;Exponential Growth&quot; is only conceptual: Data is a bigger constraint than compute for AI.](https://rohitt.hashnode.dev/data-is-a-bigger-constraint-than-compute-for-ai)
  - 🚀 [Build Interactive UIs with IconButton in Flutter](https://rohitt.hashnode.dev/build-interactive-uis-with-iconbutton-in-flutter)
- - 🚀 [Build better Screens: Cards in Flutter](https://rohitt.hashnode.dev/build-better-screens-cards-in-flutter)
+ - 🙌 [Build better Screens: Cards in Flutter](https://rohitt.hashnode.dev/build-better-screens-cards-in-flutter)
  - 🙌 [The ultimate Showdown: Flutter VS React-Native](https://rohitt.hashnode.dev/flutter-vs-react-native)
- - 🙌 [Flutter- How you can learn the entire widget catalog!](https://rohitt.hashnode.dev/flutter-how-you-can-learn-the-entire-widget-catalog)
- - 🙌 [Here&#39;s how you can dynamically keep your GitHub profile updated!](https://rohitt.hashnode.dev/heres-how-you-can-dynamically-keep-your-github-profile-updated)<!-- BLOGPOSTS:END -->
+ - 🙌 [Flutter- How you can learn the entire widget catalog!](https://rohitt.hashnode.dev/flutter-how-you-can-learn-the-entire-widget-catalog)<!-- BLOGPOSTS:END -->
 
 ---
 

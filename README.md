@@ -3,9 +3,11 @@
 <h3 align="center">| Software Engineer, Technical Writer | Learning, Building and Making impact one step at a time |</h3>
 
 
-- 💬 Ask me about **Tech, Writing, Finance and communities**
+- 💬 Ask me about **Technology, AI, Writing, Finance and communities**
+- 
+- Working on driving impact through Healthcare at **Dr. Reddy's Laboratories**, implementing **[Rosalind](https://github.com/tuist/Rosalind)** for the Apple Platforms, maintaining [AsyncAPI](https://github.com/asyncapi/) and more.
 
-- 🌱 Currently exploring **Spatial Computing, AR/VR for VisionOS, IOS and everything apple products**
+- 🌱 Currently exploring **Spatial Computing, AR/VR for VisionOS, iOS and everything apple products**
 
 - 📝 I regularly write technical blogs on [rohit.log()](rohitlogs.com)
 
@@ -14,7 +16,7 @@
 <a href="https://www.linkedin.com/in/rohit-t-0124a4242/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:vadlamudi.rohit5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-- ⚡ Fun fact **Not just a geek, also proficient in business aspects, making jokes and sports**
+- ⚡ Fun fact **Not just a geek, I play cricket, basketball, esports, invest in businesses, making jokes and more**
 --- 
 
 ## 🎤 Blogs and Talks:
@@ -35,9 +37,9 @@
 --- 
 
 ## 👫 Community:
+- Actively involved in Global tech communities and maintaining at [AsyncAPI Initiative](https://github.com/asyncapi/)
 - Prev - Technical and Strategy Head START Club: Built an 500+ strong diverse and inclusive student community from the ground up.
-- Previosuly, Advisory Board Member: Technvision Club and ISF IETE, SNIST - Organized several hackathons, webinars, events and mentored many students on a 1:1 basis.
-- Actively involved in Global tech communities such as [EddieHub](https://github.com/EddieHubCommunity), [MLH](https://mlh.io/), [Kubesimplify](https://github.com/kubesimplify) and more.
+- Previosuly, Advisory Board Member: Technvision Club and ISF IETE, SNIST - Organized several hackathons, webinars, events and mentored many students on a 1:1 basi
 - Apart from tech, also been the president of Sports Club, SNIST: Organised the biggest in-person sports Fest in Telangana with over 2000+ attendees
 
 ---

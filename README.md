@@ -4,7 +4,7 @@
 
 
 - 💬 Ask me about **Technology, AI, Writing, Finance and communities**
-- 
+ 
 - Working on driving impact through Healthcare at **Dr. Reddy's Laboratories**, implementing **[Rosalind](https://github.com/tuist/Rosalind)** for the Apple Platforms, maintaining [AsyncAPI](https://github.com/asyncapi/) and more.
 
 - 🌱 Currently exploring **Spatial Computing, AR/VR for VisionOS, iOS and everything apple products**
